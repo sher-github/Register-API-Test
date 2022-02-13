@@ -1,6 +1,6 @@
 # Register-API-Test
 
-## Question
+## Description
 測試註冊的 API
 
 參考網站：https://reqres.in/
